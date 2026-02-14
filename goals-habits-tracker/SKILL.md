@@ -1,6 +1,9 @@
 ---
 name: Goals & Habits Tracker
 description: Plan and track yearly and quarterly (3-month) goals with weekly check-ins and habit tracking, backed by a local SQLite database. Use when the user asks for yearly planning, quarterly/3-month planning, weekly reviews/check-ins, creating a new habit, stopping a behavior, logging habit progress, or summarizing goal/habit progress.
+category: Productivity
+keywords: planning, goals, habits, habit-tracking, tracking
+tags: coaching, productivity, accountability
 ---
 
 # Goals & Habits Tracker (Chat-Only, SQLite)

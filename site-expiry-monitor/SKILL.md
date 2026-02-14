@@ -1,6 +1,9 @@
 ---
 name: Site Domain Monitoring
 description: Monitor websites/domains and check (1) domain registration expiration (RDAP with optional WHOIS fallback), (2) SSL certificate expiration, and (3) optional HTTP responsiveness (expect 200). Use when user needs a table view of site health/expiry and to emit notifications when SSL/domain expires in less than N days or a site becomes unresponsive.
+category: Monitoring
+keywords: domain expiry, ssl certificates, rdap, monitoring, notifications
+tags: infrastructure, maintenance, security
 ---
 
 ## 1) Mini-application purpose
